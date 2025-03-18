@@ -1,0 +1,47 @@
+
+    PRODUCT PERFORMANCE SUMMARY REPORT
+    ==================================
+    
+    OVERALL METRICS:
+    - Total Revenue: £10,285,879.96
+    - Total Quantity Sold: 5,616,692
+    - Total Transactions: 19,934
+    - Unique Products: 4,290
+    
+    PRODUCT CONCENTRATION:
+    - Top 10 Products: 9.4% of total revenue
+    - Top 20 Products: 13.2% of total revenue
+    - Top 50 Products: 21.5% of total revenue
+    - Number of products to reach 80% of revenue: 859 (20.0% of catalog)
+    
+    REVENUE PER PRODUCT:
+    - Average Revenue per Product: £2,397.64
+    - Median Revenue per Product: £575.07
+    
+    TOP 3 PRODUCTS BY REVENUE:
+    
+    1. REGENCY CAKESTAND 3 TIER
+       - Revenue: £174,484.74 (1.7% of total)
+       - Quantity: 13,890 units
+       - Transactions: 1,989
+       - Unit Price: £13.96
+        
+    2. PAPER CRAFT , LITTLE BIRDIE
+       - Revenue: £168,469.60 (1.6% of total)
+       - Quantity: 80,995 units
+       - Transactions: 1
+       - Unit Price: £2.08
+        
+    3. WHITE HANGING HEART T-LIGHT HOLDER
+       - Revenue: £104,340.29 (1.0% of total)
+       - Quantity: 37,603 units
+       - Transactions: 2,193
+       - Unit Price: £3.11
+        
+    RECOMMENDATIONS:
+    1. Focus marketing efforts on top revenue-generating products
+    2. Review the long tail of slow-moving products for potential discontinuation
+    3. Analyze seasonal patterns to optimize inventory planning
+    4. Investigate cross-selling opportunities between top products
+    5. Consider country-specific promotions based on product preferences
+    
