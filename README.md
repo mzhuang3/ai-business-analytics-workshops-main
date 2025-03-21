@@ -16,13 +16,13 @@ This workshop introduces fundamental AI concepts and practical AI use cases in b
 
 ## Workshop 2: AI in Data Visualization for Business Analytics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzhuang3/ai-business-analytics-workshops-main/blob/main/workshop-02/ai-in-data-visualization-for-business-analytics.ipynb?outputonly=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzhuang3/ai-business-analytics-workshops-main/blob/main/workshop-02/ai_in_data_visualization_for_business_analytics.ipynb?outputonly=true)
 
 This workshop introduces the role of data visualization in business analytics, the basic chart types and when to use them. It also includes hands-on experiments on deploying AI tools, particularly LLM-based agents, to assist business analysts in the task of "Understanding Your Product" by conducting historical performance analysis, revenue prediction, demand forecasting, and price optimization.
 
 ## Workshop 3: AI Ethics in Business Analytics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzhuang3/ai-business-analytics-workshops-main/blob/main/workshop-03/ai-ethics-in-business-analytics.ipynb?outputonly=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzhuang3/ai-business-analytics-workshops-main/blob/main/workshop-03/ai_ethics_in_business_analytics.ipynb?outputonly=true)
 
 This workshop explores general AI ethical challenges and the specific ethical considerations in business analytics. It also features a guest business analyst who will share insights on possible career paths, essential skills needed, and AI’s impact on the industry.
 
