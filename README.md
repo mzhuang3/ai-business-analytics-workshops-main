@@ -10,7 +10,7 @@ This will create your own editable copy of the notebook in your own account, the
 
 ## Workshop 1: Intro to AI in Business Analytics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzhuang3/ai-business-analytics-workshops-main/blob/main/workshop-01/intro-to-ai-in-business-analytics.ipynb?outputonly=true)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mzhuang3/ai-business-analytics-workshops-main/blob/main/workshop-01/intro_to_ai_in_business_analytics.ipynb?outputonly=true)
 
 This workshop introduces fundamental AI concepts and practical AI use cases in business with a focus on AI in data modeling. It also includes hands-on experiments on deploying AI tools, particularly LLM-based agents, to assist business analysts in the task of "Understanding Your Customer" by analyzing customer segmentation and their co-buying behaviors.
 
